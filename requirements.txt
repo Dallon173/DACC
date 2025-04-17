@@ -1,0 +1,7 @@
+streamlit
+pillow
+numpy
+pandas
+opencv-python          # for image manipulation like resizing or pixel block processing
+scikit-image           # if using advanced image segmentation
+matplotlib             # for visual previews or plots (optional)
